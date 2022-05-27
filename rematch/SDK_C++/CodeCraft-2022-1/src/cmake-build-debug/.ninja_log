@@ -1,0 +1,6 @@
+# ninja log v5
+1	1167	6709333018570803	CMakeFiles/CodeCraft-2022-1.dir/CodeCraft-2022.cpp.obj	3621f642905602d2
+23	2617	6709333033084844	CMakeFiles/CodeCraft-2022-1.dir/Judge.cpp.obj	f6271e01f85c6380
+16	3825	6709333045009680	CMakeFiles/CodeCraft-2022-1.dir/IO.cpp.obj	d1582bb2850c5b0a
+31	4858	6709333055489571	CMakeFiles/CodeCraft-2022-1.dir/Solution.cpp.obj	19a58dfcf857ba95
+4858	5395	6709333060775603	../bin/CodeCraft-2022-1.exe	f1f1bcc8fb79d94e

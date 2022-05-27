@@ -1,0 +1,24 @@
+"D:\software\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/software/x86_64-7.3.0-release-posix-sjlj-rt_v5-rev0/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/software/x86_64-7.3.0-release-posix-sjlj-rt_v5-rev0/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/software/x86_64-7.3.0-release-posix-sjlj-rt_v5-rev0/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\Doc\Huawei2022\rematch\SDK_C++\CodeCraft-2022\src
+CMake Deprecation Warning at CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 7.3.0
+-- The CXX compiler identification is GNU 7.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/software/x86_64-7.3.0-release-posix-sjlj-rt_v5-rev0/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/software/x86_64-7.3.0-release-posix-sjlj-rt_v5-rev0/mingw64/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Doc/Huawei2022/rematch/SDK_C++/CodeCraft-2022/src/cmake-build-debug

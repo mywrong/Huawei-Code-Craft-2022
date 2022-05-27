@@ -1,0 +1,25 @@
+# ninja log v5
+18	3336	6712707665253580	CMakeFiles/CodeCraft-2022.dir/CodeCraft-2022.cpp.obj	ed438c032fcaf781
+23	6477	6712707696789858	CMakeFiles/CodeCraft-2022.dir/Judge.cpp.obj	7ca2da654ef5895e
+0	9019	6712707721406413	CMakeFiles/CodeCraft-2022.dir/IO.cpp.obj	16666ff0def6939d
+3	9397	6712708007637513	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+9398	9729	6712708010887865	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+4	1779	6712713125748499	CMakeFiles/CodeCraft-2022.dir/CodeCraft-2022.cpp.obj	ed438c032fcaf781
+1780	2443	6712713132408164	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+3	1718	6722978322909860	CMakeFiles/CodeCraft-2022.dir/CodeCraft-2022.cpp.obj	ed438c032fcaf781
+57	2992	6722978335659345	CMakeFiles/CodeCraft-2022.dir/Judge.cpp.obj	7ca2da654ef5895e
+52	4451	6722978350250200	CMakeFiles/CodeCraft-2022.dir/IO.cpp.obj	16666ff0def6939d
+63	5728	6722978363023366	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+5728	6457	6722978370250496	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+3	4434	6722981365461346	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+4435	4851	6722981369352416	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+5	6387	6722985067139200	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+6388	7515	6722985078341236	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+2	4489	6722995243465705	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+4489	4886	6722995247344324	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+3	6130	6723001196347119	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+6130	6494	6723001199921179	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+3	5920	6723001463264553	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+5921	6269	6723001466686234	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
+3	6164	6723002764157501	CMakeFiles/CodeCraft-2022.dir/Solution.cpp.obj	19076abc455e7e4f
+6164	7293	6723002775517193	../bin/CodeCraft-2022.exe	fc33593a30b6cf23
